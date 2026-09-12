@@ -1,0 +1,23 @@
+[Placeholder transcript -- replace this with a real transcript pulled via
+youtube-transcript-api from a podcast/channel you actually watch.]
+
+HOST: Welcome back to the show. Today we're talking about how retrieval
+systems are changing the way people search for information.
+
+GUEST: Thanks for having me. I think the big shift is that retrieval
+used to mean keyword matching, and now it means matching meaning. That
+changes everything about how you build search.
+
+HOST: Can you explain that difference for people who aren't technical?
+
+GUEST: Sure. Old search looks for the exact words you typed. New
+retrieval, using embeddings, looks for text that means the same thing
+even if the words are completely different. So if you ask about "car
+trouble" it can find a document that says "vehicle breakdown" even
+though no words match.
+
+HOST: And that's the foundation of these RAG systems everyone's
+building now?
+
+GUEST: Exactly. Retrieval finds the meaning-relevant text, and then a
+language model uses that text to actually answer the question.

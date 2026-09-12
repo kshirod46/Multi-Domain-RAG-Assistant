@@ -1,0 +1,146 @@
+[
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "sample_transcript.txt",
+    "chunk_id": 0,
+    "text": "[Placeholder transcript -- replace this with a real transcript pulled via youtube-transcript-api from a podcast/channel you actually watch.] HOST: Welcome back to the show. Today we're talking about how retrieval systems are changing the way people search for information. GUEST: Thanks for having me. I think the big shift is that retrieval used to mean keyword matching, and now it means matching meaning. That changes everything about how you build search. HOST: Can you explain that difference for people who aren't technical? GUEST: Sure. Old search looks for the exact words you typed",
+    "page_number": null,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "sample_transcript.txt",
+    "chunk_id": 1,
+    "text": ". Old search looks for the exact words you typed. New retrieval, using embeddings, looks for text that means the same thing even if the words are completely different. So if you ask about \"car trouble\" it can find a document that says \"vehicle breakdown\" even though no words match. HOST: And that's the foundation of these RAG systems everyone's building now? GUEST: Exactly. Retrieval finds the meaning-relevant text, and then a language model uses that text to actually answer the question.",
+    "page_number": null,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 0,
+    "text": "The Electric Vehicle Myth Exposed - Gemini Notebook Exported on: 8/24/2026, 12:01:18 PM The Hidden Realities of Electric Vehicle Adoption: A Comprehensive Analysis Executive Summary The transition to Electric Vehicles (EVs) is frequently marketed as a cost-effective, environmentally friendly, and strategically sound alternative to internal combustion engine (ICE) vehicles. However, a deeper analysis of the infrastructure, economic, and geopolitical realities in India suggests a far more complex and potentially detrimental landscape",
+    "page_number": 1,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 1,
+    "text": ". Key findings indicate that the perceived low running costs of EVs are often offset by tiered electricity billing structures and high total ownership costs, including significant battery replacement expenses. Furthermore, the environmental benefits are contested due to the high carbon footprint of battery manufacturing, the reliance on coal for power generation, and the ecological destruction caused by lithium mining. Nationally, the shift poses a security risk by trading dependency on Middle Eastern oil for a Chinese monopoly on battery components and data",
+    "page_number": 1,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 2,
+    "text": ". Finally, the \"smart\" nature of EVs introduces unprecedented corporate control, allowing manufacturers to remotely disable features or harvest sensitive spatial data, effectively turning vehicles into \"smartphones on wheels.\" 1. Economic Realities and Total Cost of Ownership Contrary to the marketing claim of \"zero\" or minimal running costs, the economic burden of an EV can exceed that of a traditional petrol vehicle when viewed over a seven-year lifecycle. The Electricity Billing Trap India’s electricity pricing is based on a slab structure",
+    "page_number": 1,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 3,
+    "text": ". The Electricity Billing Trap India’s electricity pricing is based on a slab structure. The significant energy required to charge an EV battery— comparable to running five air conditioners simultaneously—frequently pushes a household into the highest billing tier. This results in: Tiered Inflation: Not only is the car expensive to charge, but all other household appliances (TVs, ACs, lights) are then billed at the highest possible rate. Inaccurate Cost-per-Kilometer: The \"₹1 per kilometer\" narrative fails to account for these systemic increases in the total monthly utility bill",
+    "page_number": 1,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 4,
+    "text": ". Comparative Cost Analysis (7-Year Projection) A direct comparison between an EV (e.g., Nexon EV) and its petrol counterpart reveals a significant financial gap: Expense Category EV (Nexon EV) Petrol (Nexon) Initial Purchase Price ₹15,00,000 (Included in Total) Battery Replacement (5–7 years) ~₹5,00,000 N/A Total Ownership Cost ~₹20,00,000 ~₹16,00,000 Note: The petrol cost includes fuel expenses for the same period/distance (approx. 12,000 km/year). generated by NotebookLM to PDF",
+    "page_number": 1,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 5,
+    "text": "Resale and Maintenance Challenges Depreciated Resale Value: The second-hand market for EVs is nearly non-existent. Potential buyers avoid used EVs because the cost of a necessary battery replacement (plus installation and service) can exceed ₹5-6 lakhs, making a new car a more logical purchase. Service Monopolies: Standard mechanics cannot service EVs. Owners are forced into authorized service centers where they face premium rates for parts, labor, and high GST. 2. Infrastructure Constraints and Grid Stability The rapid push for EV adoption ignores the current state of India’s electrical infrastructure and urban living arrangements",
+    "page_number": 2,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 6,
+    "text": ". The Grid Collapse Risk: In many Indian cities, the power grid already struggles during summer months due to AC usage. If millions of middle-class users charge their EVs simultaneously in the evening, the load could lead to transformer failures and grid collapse. Government Inefficiency: Skepticism remains regarding the government's ability to upgrade the grid in time, given existing delays in basic infrastructure like road construction. The Renter’s Dilemma: A significant portion of urban Indians live in rented apartments with shared parking in basements or alleys",
+    "page_number": 2,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 7,
+    "text": ". Installing a private charging station requires permissions from landlords or Resident Welfare Associations (RWAs) and new meters/wiring, which is often an insurmountable hurdle. 3. The Environmental Paradox The \"green\" label attached to EVs is increasingly viewed as a corporate marketing strategy rather than a scientific reality, particularly in the Indian context. Manufacturing and Mining Impact High Initial Carbon Footprint: Manufacturing an EV battery releases approximately 70% more CO2 than producing a standard car. One ton of lithium production generates 15,000 kg of CO2",
+    "page_number": 2,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 8,
+    "text": ". One ton of lithium production generates 15,000 kg of CO2. Water Crisis: In the \"Lithium Triangle\" (specifically Chile), extracting one ton of lithium requires approximately 2 million liters of fresh underground water. This has led to the destruction of local ecosystems and the drying up of villages. Toxic Waste: EV batteries are difficult to recycle. The process involves crushing them in shredders, resulting in \"heavy metal\" waste that is both toxic and explosive. Energy Source Issues In India, approximately 70% of electricity is generated by burning coal. Consequently, EVs are not \"zero emission\"; they merely shift the point of pollution from the tailpipe to the coal-fired power plant. 4",
+    "page_number": 2,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 9,
+    "text": ". 4. Corporate Control and \"Smart\" Vulnerabilities Modern EVs are defined as \"two-ton smartphones on wheels,\" introducing risks related to ownership rights and planned obsolescence. Vampire Drain: EV batteries require constant temperature regulation. Even when the car is off, it \"secretly\" uses power to stay warm or cool, a phenomenon known as vampire drain. Software-Defined Ownership: generated by NotebookLM to PDF",
+    "page_number": 2,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 10,
+    "text": "Remote Disablement: Manufacturers have filed patents for technology that can disable the AC, stereo, or steering wheel if a customer is late on EMI payments. Some cars can even \"self- drive\" back to a warehouse. Feature Locking: Evidence suggests companies can artificially limit battery range via software, only \"unlocking\" full capacity during emergencies or for extra fees. Planned Obsolescence: Similar to smartphones, manufacturers can push software updates that deliberately slow down older models to encourage new purchases. 5. Geopolitical and National Security Risks The transition to EVs may represent a shift from one form of energy dependency to a more dangerous one",
+    "page_number": 3,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 11,
+    "text": ". The China Monopoly: While the world has relied on Arab nations for oil, China currently controls 70–80% of global battery refining and processing. Unlike oil-producing nations that are primarily profit-driven, China is characterized as a \"hostile, aggressive superpower\" with active border disputes with India. Strategic Vulnerability: If a conflict arises, China could paralyze India's transport economy by halting the supply of battery components or pushing malicious software updates. Data Espionage: EVs track location, voice data, and 3D mapping of roads. This data serves as a remote control for the nation’s transport infrastructure, potentially accessible by foreign entities",
+    "page_number": 3,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 12,
+    "text": ". Loss of Domestic Manufacturing: While India manufactures ICE engines, the most expensive part of an EV—the battery (40% of the car's cost)—is largely imported, hollowing out domestic manufacturing value. 6. Conclusion: The \"Corporate Scam\" Hypothesis The document suggests that the global push for EVs is less about environmental preservation and more about a \"corporate scam.\" Billions of dollars have been invested by powerful businessmen who, realizing that consumers would not naturally abandon their freedom for more expensive and restrictive technology, have lobbied governments to provide subsidies",
+    "page_number": 3,
+    "line_start": null,
+    "line_end": null
+  },
+  {
+    "collection": "podcast_transcripts",
+    "source_file": "The_Hidden_Realities_of_Electric_Vehicle_Adoption_A_Comprehensive_Analysis.pdf",
+    "chunk_id": 13,
+    "text": ". This effectively redirects taxpayer money toward corporate profits under the guise of a \"Green Revolution,\" while the consumer is left with a vehicle that is more expensive, less private, and potentially less reliable than traditional alternatives. generated by NotebookLM to PDF",
+    "page_number": 3,
+    "line_start": null,
+    "line_end": null
+  }
+]

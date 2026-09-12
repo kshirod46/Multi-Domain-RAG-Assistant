@@ -1,0 +1,13 @@
+pypdf
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+ragas
+streamlit
+python-dotenv
+pandas
+arxiv
+youtube-transcript-api
