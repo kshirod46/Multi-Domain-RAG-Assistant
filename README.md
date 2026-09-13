@@ -2,10 +2,8 @@
 ![Header](assets/Header.png)
 
 ---
-
-
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://multi-domain-rag-assistant.streamlit.app/)
----
+## Multi-Domain-RAG-Assistant
 A local Streamlit application for asking grounded questions over separate
 document collections. The user selects one knowledge base, the application
 retrieves relevant chunks from that collection, and Groq generates an answer
@@ -26,35 +24,13 @@ The application provides four independent collections:
 Documents from one collection are never searched when another collection is
 selected. This keeps answers scoped to the user's chosen knowledge base.
 
-## How the system works
+## System Pipeline
 
-```text
-TXT/PDF files
-     |
-     v
-Ingestion and cleaning
-     |
-     v
-Page-aware, overlapping chunks
-     |
-     v
-Sentence-transformer embeddings
-     |
-     v
-One FAISS index per collection
-     |
-     v
-Similarity retrieval
-     |
-     v
-Groq grounded generation
-     |
-     v
-Answer + retrieved source chunks
-```
+![Pipeline](assets/Pipeline.png)
 
 ### Ingestion and chunking
 
+--
 `src/ingest.py` supports TXT and PDF files.
 
 - PDF text is processed page by page.
