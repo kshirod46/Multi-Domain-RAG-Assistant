@@ -1,5 +1,11 @@
-# Multi-Domain RAG
 
+![Header](assets/Header.png)
+
+---
+
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://multi-domain-rag-assistant.streamlit.app/)
+---
 A local Streamlit application for asking grounded questions over separate
 document collections. The user selects one knowledge base, the application
 retrieves relevant chunks from that collection, and Groq generates an answer
