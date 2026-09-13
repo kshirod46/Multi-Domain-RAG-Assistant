@@ -15,11 +15,13 @@ single mixed document index.
 ## Knowledge bases
 
 The application provides four independent collections:
+| Domain | Supported Content |
+|:---|:---|
+| 📚 **Novel** | Books and other literary documents |
+| 📝 **ML Papers** | Machine-learning research papers and technical PDFs |
+| ♫₊˚ **Podcast Transcripts** | Podcast transcripts and related discussion documents |
+| 📓 **Others** | Any TXT or PDF documents outside the above categories |
 
-- 📚 **Novel** - books and other literary documents
-- 📝 **ML Papers** - machine-learning research papers and technical PDFs
-- ♫₊˚ **Podcast Transcripts** - podcast transcripts and related discussion documents
-- 📓 **Others** - any TXT or PDF documents that do not fit the other categories
 
 Documents from one collection are never searched when another collection is
 selected. This keeps answers scoped to the user's chosen knowledge base.
